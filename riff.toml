@@ -1,0 +1,1 @@
+handler = "com.aoe.greetingjava.GreetingJavaApplication.doStuff"
